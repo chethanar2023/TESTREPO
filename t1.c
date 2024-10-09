@@ -1,7 +1,11 @@
 main()
 {
 add();
-sub();
+sub()
+{
+  PRINTF("SUBTRACTION");
+}
+  
 mul();
 div();
 }
