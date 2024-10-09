@@ -1,6 +1,10 @@
 main()
 {
-add();
+add()
+{
+  PRINTF("ADDITION");
+}
+  
 sub();
 mul();
 div();
